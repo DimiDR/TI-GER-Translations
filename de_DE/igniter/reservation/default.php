@@ -27,7 +27,7 @@ return [
     'label_location' => 'Standort',
     'label_guest_num' => 'Anzahl der Gäste',
     'label_date' => 'Datum',
-    'label_time' => 'Zeit',
+    'label_time' => 'Zeit (vorher Tisch suchen drücken)',
     'label_occasion' => 'Besondere Anlässe',
     'label_select' => ' -Bitte auswählen- ',
 

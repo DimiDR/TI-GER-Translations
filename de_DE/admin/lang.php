@@ -734,7 +734,7 @@ return [
         'text_order_date' => 'Bestelldatum',
         'text_deliver_to' => 'Liefern an',
         'text_asap' => 'ASAP',
-        'text_invoice_thank_you' => 'Vielen Dank für Ihre Bestellung',
+        'text_invoice_thank_you' => 'Der Rechnungsbetrag für Speisen und Liefergebühr enthält die Umsatzsteuer von 7%. Der Rechnungsbetrag für Getränke enthält die Umsatzsteuer von 19%.',
         'text_collection_order_type' => 'Dies ist eine Abholung-Bestellung',
         'text_no_payment' => 'Keine Zahlungsmethode ausgewählt',
         'text_unassigned' => 'Muss noch zugewiesen werden',

@@ -19,7 +19,7 @@ return [
     'text_sub_total' => 'Zwischensumme',
     'text_coupon' => 'Gutschein [%s]',
     'text_tip' => 'Trinkgeld',
-    'text_payment_fee' => 'Zahlungsgebühr',
+    'text_payment_fee' => 'Onlinezahlung',
     'text_vat' => 'Mwst [%s]',
     'text_vat_included' => 'enthalten',
     'text_order_total' => 'Gesamtsumme',
@@ -45,6 +45,7 @@ return [
     'button_apply_coupon' => 'Gutschein einlösen',
     'button_apply_tip' => 'Trinkgeld hinzufügen',
     'button_view_cart' => 'Zurück zu meiner Bestellung',
+    'button_show_more_options' => 'Weitere anzeigen',
 
     'column_condition_name' => 'Name',
     'column_condition_priority' => 'Priorität',
