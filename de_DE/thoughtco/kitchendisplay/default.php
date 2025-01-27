@@ -81,4 +81,9 @@ return [
     'value_delivery' => 'nur Lieferung',
     'value_collection' => 'Nur Abholung',
 
+    'eta' => 'Die geschätzte Ankunftszeit für Ihre Bestellung beträgt %d Minuten',
+    'eta_too_low' => 'Die Ankunftszeit ist früher als die gewünschte Zeit. Haben Sie die Reservierungszeit berücksichtigt?',
+    'eta_success' => 'Geschätzte Ankunftszeit erfolgreich auf %d Minuten gesetzt',
+    'btn_eta' => 'Ankunft in X Minuten'
+
 ];
